@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "internship-4-oop-dungeon-quest\Presentation.csproj", "{016BA114-5223-42C1-9A31-B5645E1B74E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{8E3466B6-1196-4DF8-BE6D-D3D04056974E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{7772B31B-CC64-461D-A676-CC8B036F2393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{016BA114-5223-42C1-9A31-B5645E1B74E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016BA114-5223-42C1-9A31-B5645E1B74E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016BA114-5223-42C1-9A31-B5645E1B74E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016BA114-5223-42C1-9A31-B5645E1B74E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E3466B6-1196-4DF8-BE6D-D3D04056974E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3466B6-1196-4DF8-BE6D-D3D04056974E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3466B6-1196-4DF8-BE6D-D3D04056974E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3466B6-1196-4DF8-BE6D-D3D04056974E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7772B31B-CC64-461D-A676-CC8B036F2393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7772B31B-CC64-461D-A676-CC8B036F2393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7772B31B-CC64-461D-A676-CC8B036F2393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7772B31B-CC64-461D-A676-CC8B036F2393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C9E90D5-7F30-4903-8A1F-D32D7307848A}
+	EndGlobalSection
+EndGlobal
